@@ -39,7 +39,7 @@ Courier: Similar a Courier New.
 > En HTML tenemos ciertos elementos que fueron creados para amar a quedar
 >  algunos de estos elementos son: 
 
-    - <head>
+    - <header>
         - <nav>
     - <main>
         - <section>
