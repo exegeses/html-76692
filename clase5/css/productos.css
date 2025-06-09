@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    font-family: "Roboto", sans-serif;
+    color: hsl(279, 100%, 11%);
+}
+
+main{
+    width: 768px;
+    margin: auto;
+    color: hsl(279, 92%, 33%);
+}
+    #prod1{
+        height: 324px;
+        width: 192px;
+
+        background-image: url(../imgs/mate.jpg);
+        background-repeat: no-repeat;
+
+        display: flex;
+        align-items: end;
+    }
+    #prod1:hover{
+        background-image: url(../imgs/bombilla.jpg);
+    }
+        #prod1 span{
+            display: block;
+            background-color: #b60386;
+            color: #fff;
+            padding: 8px 16px;
+            border-radius: 8px;
+        }

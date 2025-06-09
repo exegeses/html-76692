@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    font-family: "Roboto", sans-serif;
+    color: rgb(0, 112, 75);
+    font-size: 24px;
+}
+a{
+    color: rgb(0, 112, 75);
+}
+
+.w600{
+    font-weight: 600;
+}
+.w400{
+    font-weight: 400;
+}
+.w200{
+    font-weight: 200;
+}
+
+#cambio{
+    font-weight: 500;
+}
+    #cambio h2{
+        font-weight: 500;
+    }
+    #cambio a{
+        color: rgb(44, 0, 75);
+    }

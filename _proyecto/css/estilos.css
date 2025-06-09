@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
+
+body{
+    font-family: "Figtree", sans-serif;
+    background-color: hsl(240, 37%, 8%);
+    color: white;
+    width: 1200px;
+    margin: auto;
+
+}
+
+header{
+    height: 104px;
+    background-color: hsl(243, 38%, 12%);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+    header nav a{
+        font-size: 20px;
+        color: white;
+        text-decoration: none; /* quitar subrayado */
+        padding: 12px;
+    }
+
+
+main{
+    min-height: 848px;
+}
+footer{
+    height: 216px;
+    background-color: hsl(240, 40%, 4%);
+}
