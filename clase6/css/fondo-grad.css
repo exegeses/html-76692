@@ -1,0 +1,13 @@
+main{
+    width: 768px;
+    margin: auto;
+}
+
+    #grad{
+        height: 312px;
+        background: #8e2a9b;
+        background: linear-gradient(180deg, rgba(142, 42, 155, 1) 0%, rgba(83, 237, 227, 1) 100%);
+
+    }
+
+    /* https://cssgradient.io/ */

@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
+
+body{
+    font-family: Figtree, sans-serif;
+    font-size: 24px;
+    background-color: hsl(177, 100%, 12%);
+    color: hsl(177, 100%, 90%);
+}
+
+main{
+    width: 940px;
+    margin: auto; /* centrar en eje horizontal */
+}    
+
+section{
+    background-color: hsl(177, 100%, 8%);
+    height: 400px;
+    /* display: flex; */
+}
+
+    section article{
+        background-color: hsl(100, 50%, 50%);
+        width: 128px;
+        height: 128px;
+        border: 1px solid #fff;
+        margin: 12px;
+    }
+    #medio{
+        margin: auto;
+    }

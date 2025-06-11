@@ -6,7 +6,10 @@ body{
     color: white;
     width: 1200px;
     margin: auto;
+}
 
+a{
+    text-decoration: none; /* quitar subrayado */
 }
 
 header{
@@ -19,7 +22,6 @@ header{
     header nav a{
         font-size: 20px;
         color: white;
-        text-decoration: none; /* quitar subrayado */
         padding: 12px;
     }
 
@@ -30,4 +32,12 @@ main{
 footer{
     height: 216px;
     background-color: hsl(240, 40%, 4%);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
+
+    footer nav a{
+        margin-left: 16px;
+        margin-right: 16px;
+    }
