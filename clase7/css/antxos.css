@@ -1,0 +1,23 @@
+body{
+    background-color: #292929;
+    font-family: sans-serif;
+    color: white;
+}
+header{
+    background-color: #000;
+    height: 104px;
+}
+.df{
+    display: flex;
+    justify-content: space-between;
+}
+.antxo{
+    width: 1200px;
+    margin: auto;
+    border: 1px solid #fff;
+}    
+
+main{
+    background-color: #444;
+    min-height: 600px;
+}

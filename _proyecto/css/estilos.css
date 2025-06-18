@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
 
+/* reseteo */
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
 body{
     font-family: "Figtree", sans-serif;
     background-color: hsl(240, 37%, 8%);
@@ -29,6 +36,25 @@ header{
 main{
     min-height: 848px;
 }
+
+/* hero - banner */
+    #hero{
+        height: 512px;
+        background-image: url(../imgs/hero.jpg);
+        background-color: #20328a; 
+
+        display: flex;
+        align-items: center;
+    }
+        #hero h1{
+            width: 552px;
+            margin-left: 104px;
+            padding: 10px 16px;
+            background-color: hsla(240, 37%, 8%, 50%);
+            font-size: 40px;
+            font-weight: 600;
+        }
+
 footer{
     height: 216px;
     background-color: hsl(240, 40%, 4%);

@@ -36,7 +36,7 @@ Courier: Similar a Courier New.
 
 ## Maquetado semántico
 
-> En HTML tenemos ciertos elementos que fueron creados para amar a quedar
+> En HTML tenemos ciertos elementos que fueron creados para maquetar
 >  algunos de estos elementos son: 
 
     - <header>

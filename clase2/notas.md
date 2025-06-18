@@ -72,4 +72,4 @@
 ## Enunciados
 
 > Los enunciados sirtven para posicionar el tema de la página. 
-> estos tienen gerarquías que venmm desde el nivel 1 (h1) hasta el nivel 6
+> estos tienen gerarquías que van desde el nivel 1 (h1) hasta el nivel 6

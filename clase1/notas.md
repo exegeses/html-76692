@@ -9,7 +9,7 @@
 
 ## HTML (Hyper Text Markup Language)
 > HTML es un lenguaje para crear páginas web, su nombre viene de Hyper Text Markup Language.
-> Inicia sigla la palabra clave es Markup qué significa marcado. Esto quiere decir que cada uno de los elementos de este lenguaje es una marca: quiere decir que cumple una funcionalidad 
+> En esta sigla la palabra clave es Markup qué significa marcado. Esto quiere decir que cada uno de los elementos de este lenguaje es una marca: quiere decir que cumple una funcionalidad 
 
 > Ese lenguaje que vamos a utilizar para crear los contenedores dentro de una página web
 > Podríamos pensar un contenedor como una caja y a su vez dentro de esta caja podemos insertar contenido o bien otros contenedores
