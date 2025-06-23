@@ -55,7 +55,46 @@ main{
             font-weight: 600;
         }
 
+    #casos{
+        padding: 24px 0px;
+        margin-top: 56px;
+        display: flex;
+        justify-content: space-between;
+    }
+        #casos article{
+            width: 384px;
+            padding: 16px;
+            background-color: hsl(240, 40%, 4%);
+        }
+        #casos article h2{
+            margin: 16px 0px;
+        }
+
+/* página soluciones */
+    #soluciones{
+        margin-top: 56px;
+        background-color: hsl(240, 37%, 10%);
+        display: flex;
+        flex-wrap: wrap;  /* respeta los anchos */
+        row-gap: 56px;
+    }
+        #soluciones article{
+            width: 1200px;
+            display: flex;
+            column-gap: 80px;
+            align-items: center;
+        }
+            #soluciones article div{
+                text-align: justify;
+                padding-right: 32px;
+            }
+                #soluciones article div h2{
+                    margin-bottom: 24px;
+                }
+
+
 footer{
+    margin-top: 56px;
     height: 216px;
     background-color: hsl(240, 40%, 4%);
     display: flex;
