@@ -1,0 +1,21 @@
+body{
+    background-color: hsl(132, 57%, 12%);
+    color: hsl(132, 100%, 90%);
+    font-family: Verdana;
+    font-size: 20px;
+}
+main{
+    width: 768px;
+    margin: 40px auto;
+}
+
+h1{
+    font-size: 2em;
+    font-weight: 300;
+}
+
+p{
+    background-color: hsl(132, 57%, 4%);
+    padding: 1em;
+    border-radius: .5em;
+}
